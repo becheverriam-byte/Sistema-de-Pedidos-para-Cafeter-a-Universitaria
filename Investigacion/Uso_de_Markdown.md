@@ -29,7 +29,7 @@ Markdown es un lenguaje de marcado ligero creado por John Gruber en 2004. Utiliz
 
 ## Ejemplo Práctico de Uso de Markdown
 
-##Encabezados
+## Encabezados
 ### Se crean usando el simbolo # y mientras mas # uses mas pequeña será la letra
 ```
 # Encabezado 1 
@@ -106,6 +106,7 @@ Markdown y GitHub forman una combinación muy útil para la documentación de pr
 Los archivos Markdown se integran perfectamente con el control de versiones de Git, permitiendo trackear cambios en la documentación igual que en el código. GitHub Actions puede validar y desplegar automáticamente la documentación, mientras que los badges muestran el estado del proyecto en tiempo real.
 
 Esta integración favorece la colaboración mediante pull requests con descripciones formateadas, issues organizados y comentarios precisos. El resultado es una documentación siempre actualizada, accesible desde cualquier dispositivo y que evoluciona junto con el código del proyecto.
+
 
 
 
